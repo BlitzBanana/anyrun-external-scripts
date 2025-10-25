@@ -5,7 +5,7 @@ An Anyrun plugin that executes custom shell scripts and displays their results.
 ## Install
 
 ```bash
-git clone https://github.com/BlitzBanana/anyrun-external-script
+git clone https://github.com/BlitzBanana/anyrun-external-scripts.git
 cd anyrun-external-script
 cargo build --release
 cp target/release/libanyrun_external_script.so ~/.config/anyrun/plugins/
