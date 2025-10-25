@@ -1,0 +1,5 @@
+Config(
+    plugins: [
+        "libanyrun_external_script.so"
+    ],
+)
